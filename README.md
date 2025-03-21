@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @Rudra-prasad-tarai
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Deep Learning,Neural Networks and there implementation in Pytorch.
-- 💞️ I’m looking to collaborate on Machine Learning,Deep Learning,Python Automation,Applied Optimisation and Artificial Intelligence Projects.
+- 💞️ I’m looking to collaborate on
+-    Machine Learning,
+-    Deep Learning,
+-    Python Automation,
+-    Applied Optimisation
+-    Artificial Intelligence Projects.
 - 📫 You can reach me by rudratara8@gmail.com or rudra22@iiserb.ac.in
 - 😄 Pronouns: He/him
 
